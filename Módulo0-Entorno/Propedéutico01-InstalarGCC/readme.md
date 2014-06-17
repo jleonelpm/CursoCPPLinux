@@ -51,4 +51,6 @@ Existen decenas de IDEs para Linux y la mayoría de ellos se encuentran en los r
 
 Todas estas herramientas de la mayor calidad, las encontrarás libres y gratuitas para Linux, no será necesario nada privativo. Conforme vayamos recorriendo nuestro curso, iremos instalando librerías y herramientas adicionales.
 
+
+[Siguiente Lección](../Módulo0-Entorno/Propedéutico02-UsoDeGCC/)
  
