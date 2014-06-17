@@ -240,11 +240,13 @@ crea el ejecutable circulo, que invocado por su nombre
 
 ####Todo en un solo paso.
 En programa con un único archivo fuente todo el proceso anterior puede hacerse en un solo paso:
+
     $ gcc -o circulo circulo.c
 
 No se crea el archivo circulo.o; el código objeto intermedio se crea y destruye sin verlo el operador, pero el programa ejecutable aparece allí y funciona.
 
 Es instructivo usar la opción -v de gcc para obtener un informe detallado de todos los pasos de compilación:
+    
     $ gcc -v -o circulo circulo.c
 
 #### Enlace dinámico y estático.
@@ -255,18 +257,23 @@ Existen dos modos de realizar el enlace:
 El enlazado dinámico permite crear un ejecutable más chico, pero requiere disponible el acceso a las bibliotecas en el momento de correr el programa. El enlazado estático crea un programa autónomo, pero al precio de agrandar el tamaño del ejecutable binario.
 
 Ejemplo de enlazado estático:
+
      $ gcc -static -o circulo circulo.c
      $ ls -l circulo
      -rwxr-xr-x    1 victor   victor     237321 ago  4 11:24 circulo
+
 Si no se especifica -static el enlazado es dinámico por defecto.
 
 Ejemplo de enlazado dinámico:
+
      $ gcc -o circulo circulo.c
      $ ls -l circulo
      -rwxr-xr-x    1 victor   victor       4828 ago  4 11:26 circulo
+
 Notar la diferencia en tamaño del ejecutable compilado estática o dinámicamente. Los valores pueden diferir en algo de los mostrados; dependen de la plataforma y la versión del compilador.
 
 El comando ldd muestra las dependencias de bibliotecas compartidas que tiene un ejecutable:
+
      $ gcc -o circulo circulo.c
      $ ldd circulo
            libc.so.6 => /lib/libc.so.6 (0x40017000)
