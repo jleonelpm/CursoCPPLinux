@@ -295,5 +295,5 @@ La compilación estática no muestra ninguna dependencia de biblioteca.
 
 
 
-[Siguiente Lección](../Módulo1-Sintaxis/Lección02-Variables/)
+[Siguiente Lección](../Propedéutico03-EntornosDesarrollo/)
  
