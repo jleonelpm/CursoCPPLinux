@@ -168,7 +168,7 @@ muestra los comandos ejecutados en cada etapa de compilación y la versión del 
 
 El proceso de compilación involucra cuatro etapas sucesivas: preprocesamiento, compilación, ensamblado y enlazado. Para pasar de un programa fuente escrito por un humano a un archivo ejecutable es necesario realizar estas cuatro etapas en forma sucesiva. Los comandos gcc y g++ son capaces de realizar todo el proceso de una sola vez. 
 
-1. Preprocesado : En esta etapa se interpretan las directivas al preprocesador. Entre otras cosas, las variables inicializadas con #define son sustituídas en el código por su valor en todos los lugares donde aparece su nombre. Usaremos como ejemplo este sencillo programa de prueba, circulo.c: 
+1) Preprocesado : En esta etapa se interpretan las directivas al preprocesador. Entre otras cosas, las variables inicializadas con #define son sustituídas en el código por su valor en todos los lugares donde aparece su nombre. Usaremos como ejemplo este sencillo programa de prueba, circulo.c: 
 
      /* Circulo.c: calcula el área de un círculo.
        Ejemplo para mostrar etapas de compilación.
@@ -194,7 +194,7 @@ Examinando circulo.pp
 
 puede verse que la variable PI ha sido sustituída por su valor, 3.1416, tal como había sido fijado en la sentencia #define. 
 
-2. Compilación : La compilación transforma el código C en el lenguaje ensamblador propio del procesador de nuestra máquina.
+2) Compilación : La compilación transforma el código C en el lenguaje ensamblador propio del procesador de nuestra máquina.
 
     $ gcc -S circulo.c
 realiza las dos primeras etapas creando el archivo circulo.s;  examinándolo con
@@ -202,7 +202,7 @@ realiza las dos primeras etapas creando el archivo circulo.s;  examinándolo con
     $ more circulo.s
 puede verse el programa en lenguaje ensamblador.
 
-3. Ensamblado : El ensamblado transforma el programa escrito en lenguaje ensamblador a código objeto, un archivo binario en lenguaje de máquina ejecutable por el procesador.
+3) Ensamblado : El ensamblado transforma el programa escrito en lenguaje ensamblador a código objeto, un archivo binario en lenguaje de máquina ejecutable por el procesador.
 
 El ensamblador se denomina as:
 
@@ -217,7 +217,7 @@ donde se crea el archivo circulo.o a partir de circulo.c. Puede verificarse el t
 
 En los programas extensos, donde se escriben muchos archivos fuente en código C, es muy frecuente usar gcc o g++ con la opción -c para compilar cada archivo fuente por separado, y luego enlazar todos los módulos objeto creados. Estas operaciones se automatizan colocándolas en un archivo llamado makefile, interpretable por el comando make, quien se ocupa de realizar las actualizaciones mínimas necesarias toda vez que se modifica alguna porción de código en cualquiera de los archivos fuente. 
 
-4. Enlazado : Las funciones de C/C++ incluídas en nuestro código, tal como printf() en el ejemplo, se encuentran ya compiladas y ensambladas en bibliotecas existentes en el sistema. Es preciso incorporar de algún modo el código binario de estas funciones a nuestro ejecutable. En esto consiste la etapa de enlace, donde se reúnen uno o más módulos en código objeto con el código existente en las bibliotecas.
+4) Enlazado : Las funciones de C/C++ incluídas en nuestro código, tal como printf() en el ejemplo, se encuentran ya compiladas y ensambladas en bibliotecas existentes en el sistema. Es preciso incorporar de algún modo el código binario de estas funciones a nuestro ejecutable. En esto consiste la etapa de enlace, donde se reúnen uno o más módulos en código objeto con el código existente en las bibliotecas.
 
 El enlazador se denomina ld. El comando para enlazar
     $ ld -o circulo circulo.o -lc
