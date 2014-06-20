@@ -3,6 +3,6 @@
 using namespace std;
 
 int main() {
-    cout <<"Hola Mudo Feliz de Linux!!!" << endl;
+    cout <<"Hola Mudo Feliz de Linux en Español !!!" << endl;
     return 0;
 }
