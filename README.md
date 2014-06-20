@@ -1,7 +1,7 @@
 CursoCPPLinux
 =============
 
-Curso C++ en Linux
+Bienvendio al Curso C++ en Linux
 
 El presente curso tiene el objetivo de presentar un curso muy completo de programación en C++ para Linux.
 Abarca desde los primeros pasos hasta la creación de juegos 3D con Unrea Engine.
