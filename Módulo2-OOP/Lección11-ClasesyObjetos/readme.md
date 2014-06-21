@@ -165,7 +165,8 @@ Para implementar dichos métodos, lo haremos fuera de la clase, usando el operad
 
     void Usuario::guardarUsuario ()
     {
-        //aquí guardamos el usuario, podemos hacerlo en .csv y mas adelante modificarlo para guardar en base de datos, sin tener que modificar la clase
+        //aquí guardamos el usuario, podemos hacerlo en .csv y mas adelante modificarlo para
+        //guardar en base de datos, sin tener que modificar la clase
     }
 
     void Usuario::autentificaUsuario ()
@@ -179,20 +180,38 @@ De este modo, tendremos:
  3. Un archivo externo con main() podrá hacer uso de esta clase instanciando a Usuario.
 
 
+### Abstracción y Modularidad
+
+Abstracción denota las características esenciales de un objeto, donde se capturan sus comportamientos. Cada objeto en el sistema sirve como modelo de un "agente" abstracto que puede realizar trabajo, informar y cambiar su estado, y "comunicarse" con otros objetos en el sistema sin revelar cómo se implementan estas características. Los procesos, las funciones o los métodos pueden también ser abstraídos, y, cuando lo están, una variedad de técnicas son requeridas para ampliar una abstracción. El proceso de abstracción permite seleccionar las características relevantes dentro de un conjunto e identificar comportamientos comunes para definir nuevos tipos de entidades en el mundo real. La abstracción es clave en el proceso de análisis y diseño orientado a objetos, ya que mediante ella podemos llegar a armar un conjunto de clases que permitan modelar la realidad o el problema que se quiere atacar.
+
+Modularidad es la propiedad que permite subdividir una aplicación en partes más pequeñas (llamadas módulos), cada una de las cuales debe ser tan independiente como sea posible de la aplicación en sí y de las restantes partes. Estos módulos se pueden compilar por separado, pero tienen conexiones con otros módulos. Al igual que la encapsulación, los lenguajes soportan la modularidad de diversas formas.
+
+
 ### Encapsulamiento en C++
 
+En la [Lección 13](../Lección13-Encapsulamiento/) veremos mas sobre encapsulamiento. Por lo pronto, podremos definir el principio de encapsulamiento:
+
+Significa reunir todos los elementos que pueden considerarse pertenecientes a una misma entidad, al mismo nivel de abstracción. Esto permite aumentar la cohesión de los componentes del sistema. Algunos autores confunden este concepto con el principio de ocultación, principalmente porque se suelen emplear conjuntamente.
+
+La ocultación significa que cada objeto está aislado del exterior, es un módulo natural, y cada tipo de objeto expone una interfaz a otros objetos que especifica cómo pueden interactuar con los objetos de la clase. El aislamiento protege a las propiedades de un objeto contra su modificación por quien no tenga derecho a acceder a ellas; solamente los propios métodos internos del objeto pueden acceder a su estado. Esto asegura que otros objetos no puedan cambiar el estado interno de un objeto de manera inesperada, eliminando efectos secundarios e interacciones inesperadas. Algunos lenguajes relajan esto, permitiendo un acceso directo a los datos internos del objeto de una manera controlada y limitando el grado de abstracción. La aplicación entera se reduce a un agregado o rompecabezas de objetos.
 
 
 ### Herencia en C++
 
+En la [Lección 12](../Lección12-Herencia/) veremos mas sobre herencia. Por lo pronto, podremos definir el principio de herencia:
+
+Las clases no se encuentran aisladas, sino que se relacionan entre sí, formando una jerarquía de clasificación. Los objetos heredan las propiedades y el comportamiento de todas las clases a las que pertenecen. La herencia organiza y facilita el polimorfismo y el encapsulamiento, permitiendo a los objetos ser definidos y creados como tipos especializados de objetos preexistentes. Estos pueden compartir (y extender) su comportamiento sin tener que volver a implementarlo. Esto suele hacerse habitualmente agrupando los objetos en clases y estas en árboles o enrejados que reflejan un comportamiento común. Cuando un objeto hereda de más de una clase se dice que hay herencia múltiple; siendo de alta complejidad técnica por lo cual suele recurrirse a la herencia virtual para evitar la duplicación de datos.
 
 
 ### Polimorfismo en C++
 
+En la [Lección 14](../Lección14-Polimorfismo/) veremos mas sobre polimorfismo. Por lo pronto, podremos definir el principio de polimorfismo:
+
+Comportamientos diferentes, asociados a objetos distintos, pueden compartir el mismo nombre; al llamarlos por ese nombre se utilizará el comportamiento correspondiente al objeto que se esté usando. O, dicho de otro modo, las referencias y las colecciones de objetos pueden contener objetos de diferentes tipos, y la invocación de un comportamiento en una referencia producirá el comportamiento correcto para el tipo real del objeto referenciado. Cuando esto ocurre en "tiempo de ejecución", esta última característica se llama asignación tardía o asignación dinámica. Algunos lenguajes proporcionan medios más estáticos (en "tiempo de compilación") de polimorfismo, tales como las plantillas y la sobrecarga de operadores de C++.
 
 
 ### Instanciación de Clases
 
-
+La definición de objetos por sí misma no realiza nada. Debemos instanciar objetos para usarlos. La idea de una clase, es que puede tener distintas instancias ejecutándose simultáneamente y cada copia de la clase será una instancia. Imagina por ejemplo
 
 [Siguiente Lección](../Lección12-Herencia/)
