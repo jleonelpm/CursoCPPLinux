@@ -11,23 +11,23 @@ A través del presente curso, será posible aprender de manera autodidacta a con
 Objetivos del Curso
 ===================
 
--Presentar un contenido, modulado y listo para ser aprendido, a través de ejemplos prácitcos.
--Asesorar al alumno en cada paso del proceso, para enseñarlo a buscar por sí mismo la información deseada.
--Presentar una plataforma de acercamiento al desarrollo profesional de aplicaciones en Linux.
--Dotar al alumno de las herramientas adecuadas; desde el sistema operativo hasta los entornos de desarrollo.
--Presentar contenido dinámico, libre y distribuido, capaz de ser mejorado por otros miembros del proyecto.
--Crear un amplio repositorio de ejemplos de cada aspecto y característica de C++ y las librerías utilizadas.
--Enseñar al alunmo a programar, compilar, empaquetar y distribuir sus aplicaciones.
--Propagar la metodología de desarrollo colaborativo del software libre.
--Difundir la filosofía que persigue el software libre y crear conciencia al respecto.
--Presentar el desarrollo de software libre como una alternativa lucrativa viable.
+ * Presentar un contenido, modulado y listo para ser aprendido, a través de ejemplos prácitcos.
+ * Asesorar al alumno en cada paso del proceso, para enseñarlo a buscar por sí mismo la información deseada.
+ * Presentar una plataforma de acercamiento al desarrollo profesional de aplicaciones en Linux.
+ * Dotar al alumno de las herramientas adecuadas; desde el sistema operativo hasta los entornos de desarrollo.
+ * Presentar contenido dinámico, libre y distribuido, capaz de ser mejorado por otros miembros del proyecto.
+ * Crear un amplio repositorio de ejemplos de cada aspecto y característica de C++ y las librerías utilizadas.
+ * Enseñar al alunmo a programar, compilar, empaquetar y distribuir sus aplicaciones.
+ * Propagar la metodología de desarrollo colaborativo del software libre.
+ * Difundir la filosofía que persigue el software libre y crear conciencia al respecto.
+ * Presentar el desarrollo de software libre como una alternativa lucrativa viable.
 
 
 Mesa de Miembros del Proyecto
 =============================
 
-Enrique Pascalin	<erparom@gmail.com>				Desarrollador de Contenidos
-Diego Parra			<diegoestudianteud1@gmail.com>	Desarrollador de Contenidos
+ 1. Enrique Pascalin <erparom@gmail.com> Desarrollador de Contenidos
+ 2. Diego Parra <diegoestudianteud1@gmail.com> Desarrollador de Contenidos
 
 
 
