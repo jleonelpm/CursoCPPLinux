@@ -251,7 +251,9 @@ La definición de objetos por sí misma no realiza nada. Debemos instanciar obje
 Con esto, habremos creado 3 instancias de usuario, cada una con sus propios datos y los habremos almacenado con la función guardarUsuario(). Cosas a notar:
 
  * En main estamos incluyendo el header que es la interfaz y cuando compilemos, lo haremos con las implementaciones:
+    
     $ g++ main.cpp Usuario.cpp -o nuestroJuego
+
  * Se usa el operador **.** para hacer referencia a miembros de clase; propiedades o métodos. Sin embargo para main solo serán accesibles los métodos públicos.
   
 
