@@ -212,6 +212,47 @@ Comportamientos diferentes, asociados a objetos distintos, pueden compartir el m
 
 ### Instanciación de Clases
 
-La definición de objetos por sí misma no realiza nada. Debemos instanciar objetos para usarlos. La idea de una clase, es que puede tener distintas instancias ejecutándose simultáneamente y cada copia de la clase será una instancia. Imagina por ejemplo
+La definición de objetos por sí misma no realiza nada. Debemos instanciar objetos para usarlos. La idea de una clase, es que puede tener distintas instancias ejecutándose simultáneamente y cada copia de la clase será una instancia. Imagina por ejemplo que en tu juego quieres tener múltiples usuarios, deberás crear una instancia de Usuario por cada uno:
+
+    #include <iostream>
+    #include "usuario.h"
+    
+    using namespace std;
+    
+    int main()
+    {
+        Usuario usr1;    //Llama al constructor Usuario::Usuario() almacena la instancia en la variable usr1
+        Usuario usr2;    //Llama al constructor Usuario::Usuario() almacena la instancia en la variable usr1
+        Usuario usr3;    //Llama al constructor Usuario::Usuario() almacena la instancia en la variable usr1
+    
+        //Ahora podemos acceder a los métodos públicos de cada instancia con el operador '.'
+        usr1.setUser("juancamaney");
+        usr1.setPassword("juan123");
+        usr1.setNombre("Juan Camaney");
+        usr1.setCorreo("juancamaney@foobar.com");
+        
+        usr2.setUser("pedroparamo");
+        usr2.setPassword("pedro456");
+        usr2.setNombre("Pedrito Paramo");
+        usr2.setCorreo("p.paramo@foobar.com");
+        
+        usr3.setUser("fulanodetal");
+        usr3.setPassword("fulano666");
+        usr3.setNombre("Fulano De Tal");
+        usr3.setCorreo("fulanito@foobar.com");
+        
+        usr1.guardarUsuario();
+        usr2.guardarUsuario();
+        usr3.guardarUsuario();
+    
+        return 0;
+    }
+
+Con esto, habremos creado 3 instancias de usuario, cada una con sus propios datos y los habremos almacenado con la función guardarUsuario(). Cosas a notar:
+
+ * En main estamos incluyendo el header que es la interfaz y cuando compilemos, lo haremos con las implementaciones:
+    $ g++ main.cpp Usuario.cpp -o nuestroJuego
+ * Se usa el operador **.** para hacer referencia a miembros de clase; propiedades o métodos. Sin embargo para main solo serán accesibles los métodos públicos.
+  
 
 [Siguiente Lección](../Lección12-Herencia/)
