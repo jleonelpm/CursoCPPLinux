@@ -75,7 +75,7 @@ En Fedora
      # (escribe la contraseña)
      # yum install anjuta
  
- * [Code::Blocks]()es un entorno de desarrollo integrado libre y multiplataforma para el desarrollo de programas en lenguaje C y C++. Está basado en la plataforma de interfaces gráficas WxWidgets, lo cual quiere decir que puede usarse libremente en diversos sistemas operativos, y está licenciado bajo la Licencia pública general de GNU.
+ * [Code::Blocks]() es un entorno de desarrollo integrado libre y multiplataforma para el desarrollo de programas en lenguaje C y C++. Está basado en la plataforma de interfaces gráficas WxWidgets, lo cual quiere decir que puede usarse libremente en diversos sistemas operativos, y está licenciado bajo la Licencia pública general de GNU.
  Debido a que Dev-C++ es un IDE para los lenguajes C y C++ y está creado en Delphi, surgió la idea y necesidad de crear un IDE hecho en los lenguajes adecuados: C y C++. Con esta motivación se creó Code::Blocks.
  Después de liberar dos versiones candidatas para versión final (release candidate), 1.0rc1 el 25 de julio de 2005 y 1.0rc2 el 25 de octubre de 2005, en vez de crear una versión final, los desarrolladores del proyecto decidieron no hacerlo, y comenzaron a añadir algunas características nuevas, con lo que la liberación de una versión final comenzó a ser repetidamente postpuesta. Por el contrario, se disponía frecuentemente (casi diariamente) de paquetes binarios de la última versión del repositorio SVN -llamadas "nightly builds"-, que los usuarios podían descargar y utilizar. Éstas normalmente recibían mejor soporte que la última versión oficial lanzada, la 1.0rc2. Mientras que este método proveía a los usuarios de las últimas mejoras del IDE y permitía a los desarrolladores obtener información constante del funcionamiento, se creó la falsa ilusión de que el proyecto estaba estancado (debido a que no salían nuevas versiones oficiales).
  La primera versión estable fue finalmente liberada el 28 de febrero de 2008, con el número de versión 8.02. El esquema de numeración para la versión fue cambiado al mismo seguido por Ubuntu, donde el mayor número (el primero) representa el año y el menor representa el mes de la versión liberada.
@@ -96,7 +96,7 @@ En Fedora
      # yum install anjuta 
 
 
-### Bueno esos eran los entornos de desarrollo mas populares en Linux escoge el que mas te guste.
+### Bueno esos eran los entornos de desarrollo más populares en Linux escoge el que mas te guste.
 
 [Siguiente Lección](../Propedéutico03-EntornosDesarrollo/)
  
