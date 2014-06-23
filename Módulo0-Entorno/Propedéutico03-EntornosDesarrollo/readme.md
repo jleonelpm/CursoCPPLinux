@@ -14,6 +14,7 @@ Para instalarlo es muy sencillo
  * en Debian 
 
      $ su
+     $ gcc -o circulo circulo.c
      # (insertar contraseña)
      # apt-get install emacs 
 
