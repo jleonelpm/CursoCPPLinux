@@ -87,13 +87,13 @@ En Debian
 
      $ su
      # (escribe la contraseña)
-     # apt-get install anjuta 
+     # apt-get install codeblocks 
 
 En Fedora
 
      $ su
      # (escribe la contraseña)
-     # yum install anjuta 
+     # yum install codeblocks
 
 
 ### Bueno esos eran los entornos de desarrollo más populares en Linux escoge el que más te guste.
