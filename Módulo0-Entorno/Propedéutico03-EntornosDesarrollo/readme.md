@@ -55,5 +55,14 @@ En Fedora
      # (escribe la contraseña)
      # yum install eclipse
 
+ * [Anjuta]() es un entorno de desarrollo integrado (IDE) para programar en los lenguajes de programación C, C++, Java, Python y Vala, en sistemas GNU/Linux y BSD. Su principal objetivo es trabajar con GTK+ y en el entorno de escritorio GNOME, además ofrece un gran número de características avanzadas de programación. Es software libre y de código abierto, disponible bajo la Licencia Pública General de GNU. 
+ Incluye un administrador de proyectos, asistentes, plantillas, depurador interactivo y un poderoso editor que verifica y resalta la sintaxis.
+Fue en 1999 cuando Naba Kumar dio a conocer su primera versión alfa de Anjuta, llamado así en honor a su novia a quien se lo dedica. Su objetivo es desarrollar un entorno de desarrollo integrado (IDE) para GNOME que, al margen de la potente línea de comandos para el desarrollo en Linux, podía facilitar la creación de programas utilizando las bibliotecas de funciones GTK+. Después de que Anjuta 1.2 apareciese en 2003, Anjuta 2.0 se planteó como una versión próxima con nuevas características, pero el desacuerdo con parte del equipo terminó en una escisión renombrando Anjuta 2.0 a Scaffold (literalmente, andamio). Scaffold era desarrollado sobre todo por el equipo anterior de gIDE mientras que Anjuta 2.0 ahora se construía encima del viejo código de Anjuta pero con una nueva arquitectura.
+ De todas formas, Naba siempre ha creído en implementar un sistema de extensiones y la portabilidad de algunas de las viejas características como características fundamentales para Anjuta 2.0. Se reutilizó algo del anterior código y el diseño actual continúa utilizando totalmente GTK+.
+ A finales de 2004, el código base alcanzó una cierta estabilidad y otros desarrolladores se interesaron otra vez en el proyecto. Ahora muchas de las funcionalidades del entorno IDE están funcionando, mejorando cada día. Después de alrededor de un año, Anjuta 2.0 está finalmente preparado por primera vez.
+ 
+ * Code::Blocks
+ * CodeLite
+
 [Siguiente Lección](../Propedéutico03-EntornosDesarrollo/)
  
