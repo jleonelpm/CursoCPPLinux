@@ -13,9 +13,9 @@ Para instalarlo es muy sencillo
 
  * en Debian 
 
-    $ su
-    # (insertar contraseña)
-    # apt-get install emacs 
+     $ su
+     # (insertar contraseña)
+     # apt-get install emacs 
 
  * en Fedora
 
