@@ -15,14 +15,14 @@ Para instalarlo es muy sencillo
 
      $ su
      $ gcc -o circulo circulo.c
-     # (insertar contraseña)
-     # apt-get install emacs 
+     $ (insertar contraseña)
+     $ apt-get install emacs 
 
  * en Fedora
 
     $ su
-    # (insertar contraseña)
-    # yum install emacs 
+    $ (insertar contraseña)
+    $ yum install emacs 
 
 
 
