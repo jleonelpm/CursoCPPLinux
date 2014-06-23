@@ -11,7 +11,7 @@ Una de las características más destacadas de todo sistema GNU/Linux es el gran
 
 Para instalarlo es muy sencillo
 
- * en Debian 
+En Debian 
 
      $ gcc -o circulo circulo.c
      # ldd circulo
@@ -21,7 +21,7 @@ Para instalarlo es muy sencillo
      # ldd circulo
            statically linked (ELF) 
 
- * en Fedora
+En Fedora
 
      $ su
      $ (insertar contraseña)
