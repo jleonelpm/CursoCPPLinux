@@ -39,5 +39,18 @@ En Fedora
      # (escribe la contraseña)
      # yum install netbeans
  
+ * [Eclipse:](http://www.eclipse.org/) un IDE programado en Java con más de 2 millones de líneas de código. Es muy usado por su soporte a múltiples idiomas, así como también a varios lenguajes de programación como por ejemplo Java, C, C++, Ada, Perl, PHP, JSP, sh y Python, muchos de ellos a través de plugins comunitarios. Los plugins además añaden otras funcionalidades importantes, como la posibilidad de que varios usuarios trabajen en un mismo proyecto y la extensión del IDE hacia otras herramientas. Es reconocido por la larga trayectoria que lleva, y es el IDE preferido por los programadores para crear nuevas herramientas de programación y aplicaciones del tipo “cliente”.
+En Debian 
+
+     $ su
+     # (escribe la contraseña)
+     # apt-get install eclipse 
+
+En Fedora
+
+     $ su
+     # (escribe la contraseña)
+     # yum install eclipse
+
 [Siguiente Lección](../Propedéutico03-EntornosDesarrollo/)
  
