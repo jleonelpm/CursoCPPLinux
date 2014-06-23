@@ -12,7 +12,7 @@ Una de las características más destacadas de todo sistema GNU/Linux es el gran
 Para instalarlo es muy sencillo
 
  * en Debian 
-
+ 
      $ su
      $ gcc -o circulo circulo.c
      $ (insertar contraseña)
