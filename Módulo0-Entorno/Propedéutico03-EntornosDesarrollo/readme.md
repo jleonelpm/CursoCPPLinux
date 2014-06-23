@@ -23,7 +23,21 @@ En Fedora
      # (escribe la contraseña)
      # yum install emacs 
 
+ 2. [Netbeans:](https://netbeans.org/index_es.html) un IDE “hecho en Java para Java”. Al ser de código abierto, su desarrollo se dio maratónicamente en los últimos años, permitiendo incluir extensiones para trabajar con C, C++, PHP, Ruby, Rails y Phyton. Sus funcionalidades son provistas por módulos escritos en Java, así como también existen varios de estos módulos que funcionan como plugins al estilo de Eclipse o Aptana. Hoy en día es uno de los IDEs más usados por los programadores de Java y Python.
 
+Para instalarlo es muy sencillo
 
+En Debian 
+
+     $ su
+     # (escribe la contraseña)
+     # apt-get install netbeans 
+
+En Fedora
+
+     $ su
+     # (escribe la contraseña)
+     # yum install netbeans
+ 
 [Siguiente Lección](../Propedéutico03-EntornosDesarrollo/)
  
