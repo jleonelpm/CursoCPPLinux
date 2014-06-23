@@ -96,7 +96,7 @@ En Fedora
      # yum install anjuta 
 
 
-### Bueno esos eran los entornos de desarrollo más populares en Linux escoge el que mas te guste.
+### Bueno esos eran los entornos de desarrollo más populares en Linux escoge el que más te guste.
 
 [Siguiente Lección](../Propedéutico03-EntornosDesarrollo/)
  
