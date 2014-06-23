@@ -12,11 +12,13 @@ Una de las características más destacadas de todo sistema GNU/Linux es el gran
 Para instalarlo es muy sencillo
 
  * en Debian 
- 
-     $ su
      $ gcc -o circulo circulo.c
-     $ (insertar contraseña)
-     $ apt-get install emacs 
+     $ ldd circulo
+           libc.so.6 => /lib/libc.so.6 (0x40017000)
+           /lib/ld-linux.so.2 => /lib/ld-linux.so.2 (0x40000000)
+     $ gcc -static -o circulo circulo.c
+     $ ldd circulo
+           statically linked (ELF) 
 
  * en Fedora
 
