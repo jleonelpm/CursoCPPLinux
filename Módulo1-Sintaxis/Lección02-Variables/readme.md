@@ -64,7 +64,7 @@ Como cuando estabamos en el colegio veiamos operadores de suma, resta, multiplic
 
      # OPERADORES
 
-     # OPERADORES DE COMPARACIÓN	       	  	          
+           	  	          
 |Nombre del operador  		    |  sintaxis         |   Sobrecargable  |
 |:---------------------------------:|:-----------------:|:----------------:|   
 | Suma	                            |  a + b            |      si	   |
