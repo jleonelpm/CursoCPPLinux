@@ -65,6 +65,15 @@ Como cuando estabamos en el colegio veiamos operadores de suma, resta, multiplic
      # OPERADORES DE COMPARACIÓN	       	  	          
 |Nombre del operador  		    |  sintaxis         |   Sobrecargable  |
 |:---------------------------------:|:-----------------:|:----------------:|   
+| Menor que                         |  a < b            |      si	   |
+| Menor o igual que		    |  a <= b		|      si	   |
+| Mayor que			    |  a > b		|      si	   |
+| Mayor o igual que		    |  a >= b		|      si	   |
+| No igual que 			    |  a != b		|      si	   |
+| Igual que 			    |  a == b		|      si	   |
+| Negación lógica 		    |  !a   		|      si	   |
+| AND lógico			    |  a && b		|      si	   |
+| OR lógico			    |  a || b		|      si	   |		
 
 
 Documentación a Leer
