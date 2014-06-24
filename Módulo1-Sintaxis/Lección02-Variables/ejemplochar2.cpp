@@ -1,5 +1,5 @@
 //EJEMPLO char2
- LINUX ESPAÑOL
+//LINUX ESPAÑOL
 
 #include <iostream> //libreria de funciones como cout y cin 
 using namespace std; //nuevo espacio de trabajo
