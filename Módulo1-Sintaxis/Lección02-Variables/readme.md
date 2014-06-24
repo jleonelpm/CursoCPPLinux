@@ -20,7 +20,8 @@ Todos los programas necesitan, en algún momento, almacenar números o datos ing
 | double       	   	| 8 byte de memoria   |  2.2e-308  a  3.4e-38	       |
 | float			| 4 byte de memoria   |  1.2e-308  a  3.4e-38  	       |
 
-EL TAMAÑO DE LAS VARIABLES EN MEMORIA PUEDEN VARIAR DE UN PC A OTRO PC 
+EL TAMAÑO DE LAS VARIABLES EN MEMORIA PUEDEN VARIAR DE UN PC A OTRO PC.
+ 
 CABE RECORDAR QUE 1 BYTE SON 8 BITS 
    
 ## UTILIZANDO NUESTRAS VARIABLES
