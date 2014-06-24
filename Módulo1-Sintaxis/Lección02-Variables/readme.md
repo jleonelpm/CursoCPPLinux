@@ -26,16 +26,15 @@ CABE RECORDAR QUE 1 BYTE SON 8 BITS
    
 ## UTILIZANDO NUESTRAS VARIABLES
 
+Haremos un ejemplo de como utilizar las variables de tipo int, double, char y float que son las que mas utilizaremos.  
 
- 
-ola Este es mi primer commit
+Ver el archivo ejemploint.cpp . 
+Empezaremos con las variables short int,  estas pueden almacenar un número que este entre -32765 y 32767, bueno si abrimos el archivo ejemplo notaremos que en el se encuentra lo usual; como lo es: 
+ * La librería iostream
+ * El using namespace std; que este nos da un nuevo espacio de trabajo para nuestro programa por lo cual es muy importante declararlo.
+ * Int main()  - Esta es la función principal en el código y es donde se ejecutan las acciones, solo puede existir una sola función main dentro del código.
+ * Se asignan unas variables como lo son a, b, c note que se puede asignar un valor especifico a la variable como en el caso de a y b, o simplemente crear la variable y dejar que se le asigne un valor en este caso nuestra variable es c y note que c esta declarada como la suma de a + b.
+ * Aparece la función cout<<” ”<<endl; en donde tenemos salida de nuestro código o sea imprime el resultado en pantalla; note que el texto “suma de a + b ” esta contenido en las comillas, si usted quita las comitas el programa le mostrara un error; por ultimo en esta función aparece nuestra variable c de esta manera <<c<<  esta variable la podemos colocar así porque esta declarada en el int, si no fuera así nos aparecería el error en la linea donde aparece nuestra variable y nos dirá que no esta asignada al sistema, ¿por que?
 
-Badasdasdasdas
-das
-das
-dasdad
- 1. adasd
- 2. sdfsdfs
- 3. asdasdasdsad
 
 [Esto es un link a google](http://www.google.com)
