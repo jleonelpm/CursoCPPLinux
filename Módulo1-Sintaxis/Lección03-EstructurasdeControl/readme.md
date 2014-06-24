@@ -1,6 +1,6 @@
 # CURSO C++ LINUX ESPAÑOL
 
-Bien amigos en esta ocación hablaremos de las estructuras de control, estas determinan la secuencia en la que se ejecutarán las instrucciones de un programa.
+Bien amigos en esta ocasión hablaremos de las estructuras de control, estas determinan la secuencia en la que se ejecutarán las instrucciones de un programa.
 Las estructuras de control se dividen en tres categorías en función del flujo de ejecución:
  
  1. Estructura secuencial.
