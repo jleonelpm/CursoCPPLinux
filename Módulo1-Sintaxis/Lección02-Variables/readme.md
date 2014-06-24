@@ -87,6 +87,12 @@ Como cuando estabamos en el colegio veiamos operadores de suma, resta, multiplic
 | AND lógico			    |  a && b		|      si	   |
 | OR lógico			    |  a || b		|      si	   |		
 
+##### TAREA
+
+ * Hacer un programa por cada operador (suma, resta multiplicación, división), en donde se realicen calculos con dos variables (a, b). Los datos del programa deben ser enteros (positivios o negativos).
+ * Hacer un programa por cada operador (suma, resta multiplicación, división), en donde se realicen calculos con dos variables (a, b). Los datos del programa deben ser decimales (positivios o negativos).
+ * TODOS LOS PROGRAMAS DEBES SUBIRLOS PARA SU REVISION
+
 
 Documentación a Leer
 ====================
