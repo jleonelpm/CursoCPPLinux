@@ -15,5 +15,11 @@ Las estructuras de control se dividen en tres categorías en función del flujo 
 
 Un ejemplo seria el siguiente:
 
-    # Función 1;
-    # Función 2;
+    # int a=0;						//Función 1;
+    # double b= 0.15					//Función 2;
+    # float c;
+    # c = a + b;					//Función 3;
+    # cout<<"Hola Linuxeros y Linuxeras"<<endl; 	//Función 4;
+    # ....... así hasta la ultima función 		//Función N;
+
+ 
