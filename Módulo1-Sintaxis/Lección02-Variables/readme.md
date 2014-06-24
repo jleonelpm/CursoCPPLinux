@@ -47,5 +47,9 @@ Hacer un programa por cada variable excepto la char, parecidos al  ejemploint.cp
  * ¿Qué pasará si utilizamos por ejemplo short y nos excedemos por 3 o 4 números del valor que se le puede asignar a esta variable?
  * ¿Por qué aparece este número negativo en nuestra suma?
 
+#### Variable char
+
+Esta es una de las variables que nos permite asignar letras, palabras y almacenarlas en una variable tipo string o cadena 
+
 
 [Esto es un link a google](http://www.google.com)
