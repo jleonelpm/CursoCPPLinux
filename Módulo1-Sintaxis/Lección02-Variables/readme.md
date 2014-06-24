@@ -49,7 +49,7 @@ Hacer un programa por cada variable excepto la char, parecidos al  ejemploint.cp
 
 #### Variable char
 
-Esta es una de las variables que nos permite asignar letras, palabras y almacenarlas en una variable tipo string o cadena 
+Esta es una de las variables que nos permite asignar letras, palabras y almacenarlas en una variable tipo string o cadena, en el archivo ejemplochar.cpp puedes ver el uso de la variable char, esta nos permite asignar un string o cadena de caracteres y podemos asignar su tamaño dentro de estos signos “[  ]” . en este caso es de 500 caracteres, sin espacios, pues cuando damos un espacio g++ nos reconoce ese espacio y lo interpreta como un salto de linea; en el uso de esta variable hay que tener sumo cuidado pues si queremos asignar mas de un nombre tenemos que declararlo como se ve en el ejemplochar2.cpp.
 
 
 [Esto es un link a google](http://www.google.com)
