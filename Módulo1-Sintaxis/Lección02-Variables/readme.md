@@ -34,7 +34,13 @@ Empezaremos con las variables short int,  estas pueden almacenar un número que 
  * El using namespace std; que este nos da un nuevo espacio de trabajo para nuestro programa por lo cual es muy importante declararlo.
  * Int main()  - Esta es la función principal en el código y es donde se ejecutan las acciones, solo puede existir una sola función main dentro del código.
  * Se asignan unas variables como lo son a, b, c note que se puede asignar un valor especifico a la variable como en el caso de a y b, o simplemente crear la variable y dejar que se le asigne un valor en este caso nuestra variable es c y note que c esta declarada como la suma de a + b.
- * Aparece la función cout<<” ”<<endl; en donde tenemos salida de nuestro código o sea imprime el resultado en pantalla; note que el texto “suma de a + b ” esta contenido en las comillas, si usted quita las comitas el programa le mostrara un error; por ultimo en esta función aparece nuestra variable c de esta manera <<c<<  esta variable la podemos colocar así porque esta declarada en el int, si no fuera así nos aparecería el error en la linea donde aparece nuestra variable y nos dirá que no esta asignada al sistema, ¿por que?
+ * Aparece la función cout<<” ”<<endl; en donde tenemos salida de nuestro código o sea imprime el resultado en pantalla; note que el texto “suma de a + b ” esta contenido en las comillas, si usted quita las comitas el programa le mostrara un error; por ultimo en esta función aparece nuestra variable c de esta manera <<c<<  esta variable la podemos colocar así porque esta declarada en el int, si no fuera así nos aparecería el error en la linea donde aparece nuestra variable y nos dirá que no esta asignada al sistema.
+
+En el archivo ejemploint.cpp se puede ver que no compila y nos aparece un error esto debido a que la variable que declaramos “a” sobrepasa el número que puede asignarse le,  esto se arregla colocando un numero en el intervalo que puede leer short int.
+
+Pasa lo mismo con las otras variables int, double, float unsigned int, etc; excepto para la variable char.
+
+Cabe aclarar que si tienes un pc de 32 bits los rangos de valores para tus variables debes buscarlo donde dice 32 bit, de igual manera si manejas pc de 16 bit o de 64 bit.
 
 
 [Esto es un link a google](http://www.google.com)
