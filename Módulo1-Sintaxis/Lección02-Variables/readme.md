@@ -55,6 +55,14 @@ Esta es una de las variables que nos permite asignar letras, palabras y almacena
 ### TAREA
  * Hacer un programa utilizando la variable char en donde puedas colocar 5 ciudades y que imprima las ciudades.	
  * Hacer un programa en donde utilices todo lo que aprendiste en cuanto a variables, el programa debe pedir Nombres, Apellidos y edades y debes organizarlo para que se imprima como si fuera una lista.
- * TODOS LOS PROGRAMAS DEBES SUBIRLOS PARA SU REVISION 
+ * TODOS LOS PROGRAMAS DEBES SUBIRLOS PARA SU REVISION
 
-[Siguiente clase](../Módulo1-Sintaxis/Lección03-EstructurasControl/readme.md)
+
+
+Documentación a Leer
+====================
+Carpeta de Recursos/Libros/gccCompiler.pdf
+(Leer lo mejor posible; particularmente capítulo 1 al 3)
+
+Carpeta de Recursos/Libros/CppDeitel/C++ Como Programar, 6ta Ed - Deitel.pdf
+(Capítulo 2.1 al 2.5)
