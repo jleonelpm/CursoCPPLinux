@@ -58,6 +58,14 @@ Esta es una de las variables que nos permite asignar letras, palabras y almacena
  * TODOS LOS PROGRAMAS DEBES SUBIRLOS PARA SU REVISION
 
 
+####OPERADORES EN C++
+
+Como cuando estabamos en el colegio veiamos operadores de suma, resta, multiplicación y división en c++ tambien encontramos operadores y son muy utiles al momento de programar.
+
+|    	    	      OPERADORES DE COMPARACIÓN	       	  	           |
+|Nombre del operador  		    |  sintaxis         |   Sobrecargable  |
+|:---------------------------------:|:-----------------:|:----------------:|   
+
 
 Documentación a Leer
 ====================
