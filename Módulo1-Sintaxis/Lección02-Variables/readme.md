@@ -44,6 +44,8 @@ Cabe aclarar que si tienes un pc de 32 bits los rangos de valores para tus varia
 
 ### TAREA
 Hacer un programa por cada variable excepto la char, parecidos al  ejemploint.cpp y subirlos para su revisión.	
+ * ¿Qué pasará si utilizamos por ejemplo short y nos excedemos por 3 o 4 números del valor que se le puede asignar a esta variable?
+ * ¿Por qué aparece este número negativo en nuestra suma?
 
 
 [Esto es un link a google](http://www.google.com)
