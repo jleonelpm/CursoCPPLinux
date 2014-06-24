@@ -38,9 +38,12 @@ Empezaremos con las variables short int,  estas pueden almacenar un número que 
 
 En el archivo ejemploint.cpp se puede ver que no compila y nos aparece un error esto debido a que la variable que declaramos “a” sobrepasa el número que puede asignarse le,  esto se arregla colocando un numero en el intervalo que puede leer short int.
 
-Pasa lo mismo con las otras variables int, double, float unsigned int, etc; excepto para la variable char.
+Pasa lo mismo con las otras variables int, double, float, unsigned int, etc; excepto para la variable char.
 
 Cabe aclarar que si tienes un pc de 32 bits los rangos de valores para tus variables debes buscarlo donde dice 32 bit, de igual manera si manejas pc de 16 bit o de 64 bit.
+
+### TAREA
+Hacer un programa por cada variable excepto la char, parecidos al  ejemploint.cpp y subirlos para su revisión.	
 
 
 [Esto es un link a google](http://www.google.com)
