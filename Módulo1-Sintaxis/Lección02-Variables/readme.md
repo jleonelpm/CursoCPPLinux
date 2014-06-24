@@ -57,4 +57,4 @@ Esta es una de las variables que nos permite asignar letras, palabras y almacena
  * Hacer un programa en donde utilices todo lo que aprendiste en cuanto a variables, el programa debe pedir Nombres, Apellidos y edades y debes organizarlo para que se imprima como si fuera una lista.
  * TODOS LOS PROGRAMAS DEBES SUBIRLOS PARA SU REVISION 
 
-[Siguiente clase](/home/diego/ProyectoC/CursoCPPLinux/Módulo1-Sintaxis/Lección03-EstructurasControl/readme.md)
+[Siguiente clase](../Módulo1-Sintaxis/Lección03-EstructurasControl/readme.md)
