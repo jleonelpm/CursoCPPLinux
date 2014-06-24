@@ -85,7 +85,6 @@ Como cuando estabamos en el colegio veiamos operadores de suma, resta, multiplic
 | Igual que 			    |  a == b		|      si	   |
 | Negación lógica 		    |  !a   		|      si	   |
 | AND lógico			    |  a && b		|      si	   |
-| OR lógico			    |  a "||" b		|      si	   |		
 
 ##### TAREA
 
