@@ -22,7 +22,7 @@ Un ejemplo seria el siguiente:
     # cout<<"Hola Linuxeros y Linuxeras"<<endl; 	//Función 4;
     # ....... así hasta la ultima función 		//Función N;
 
- * ESTRUCTURA ALTERNATIVA O CONDICIONAL
+ * [ESTRUCTURA ALTERNATIVA O CONDICIONAL]()
  
  Las estructuras condicionales controlan si una sentencia o bloque de sentencias se ejecutan, en función del cumplimiento o no de una condición o expresión lógica.
 
