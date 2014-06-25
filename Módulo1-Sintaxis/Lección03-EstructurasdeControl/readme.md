@@ -28,6 +28,6 @@ Un ejemplo seria el siguiente:
 
  El lenguaje c++ posee dos estructura de control para la selección, IF y SWITCH.
 
- ** INSTRUCCIÓN IF 
+  * INSTRUCCIÓN IF 
  
  Esta instrucción permite que se ejecute un bloque de instrucciones si cumple alguna condición que se le de al programa. ver el programa ejemploif.cpp 
