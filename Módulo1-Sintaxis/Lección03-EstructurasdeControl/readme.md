@@ -22,4 +22,12 @@ Un ejemplo seria el siguiente:
     # cout<<"Hola Linuxeros y Linuxeras"<<endl; 	//Función 4;
     # ....... así hasta la ultima función 		//Función N;
 
+ 2. ESTRUCTURA ALTERNATIVA O CONDICIONAL
  
+ Las estructuras condicionales controlan si una sentencia o bloque de sentencias se ejecutan, en función del cumplimiento o no de una condición o expresión lógica.
+
+ El lenguaje c++ posee dos estructura de control para la selección, IF y SWITCH.
+
+ 2.1 INSTRUCCIÓN IF 
+ 
+ Esta instrucción permite que se ejecute un bloque de instrucciones si cumple alguna condición que se le de al programa. ver el programa ejemploif.cpp 
