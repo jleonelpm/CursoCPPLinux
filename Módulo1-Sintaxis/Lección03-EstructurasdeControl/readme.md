@@ -30,4 +30,4 @@ Un ejemplo seria el siguiente:
 
   * INSTRUCCIÓN IF 
  
- Esta instrucción permite que se ejecute un bloque de instrucciones si cumple alguna condición que se le de al programa. ver el programa ejemploif.cpp 
+ Esta instrucción permite que se ejecute un bloque de instrucciones si cumple alguna condición que se le de al programa. ver el programa ejemploif.cpp. En este ejemplo vemos el bucle if cumpliendo una unica función la cual es comparar dos números y decir si uno es mayor que el otro.
