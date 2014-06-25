@@ -28,6 +28,6 @@ Un ejemplo seria el siguiente:
 
  El lenguaje c++ posee dos estructura de control para la selección, IF y SWITCH.
 
-  * INSTRUCCIÓN IF 
+ - INSTRUCCIÓN IF 
  
- Esta instrucción permite que se ejecute un bloque de instrucciones si cumple alguna condición que se le de al programa. ver el programa ejemploif.cpp. En este ejemplo vemos el bucle if cumpliendo una unica función la cual es comparar dos números y decir si uno es mayor que el otro.
+ Esta instrucción permite que se ejecute un bloque de instrucciones si cumple alguna condición que se le de al programa. Ver el programa ejemploif.cpp. En este ejemplo vemos el bucle if cumpliendo una unica función la cual es comparar dos números y decir si uno es mayor que el otro. Note que el programa puede comparar los dos números dentro del if. El ejemplo se hace utilizando dos condiciones if; esto para que el lector o el estudiante comprenda el uso de esta instrucción if; por lo general cuando no son muchas condiciones se suele trabajar con las funciones if y else; el if es la condición si tal cosa pasa entonces haga tal cosa; la función else se utiliza siempre después de un if y nos dice que si nuestra condición no cae dentro del if entonces haga tal cosa, o lo podemos ver  por el significado de la palabra else significa de lo contrario y en c++ el programa lo entenderá como de lo contrario haga tal cosa como se ve en el programa ejemploifelse.cpp

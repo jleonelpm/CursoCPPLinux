@@ -17,7 +17,7 @@ main() //FUNCION MAIN
       cout<<"El numero a: "<<a<<" es mayor que el numero b: "<<b<<endl;  //FUNCION COUT DE IMPRIMIR EN PANTALLA
     }
 
-  if (a<b) //CONDICIONAL IF (COMPARA LAS DOS VARIABLES INT Y DICE CUAL ES MAYOR)
+  else //CONDICIONAL ELSE SE EJECUTA SI NO SE CUMPLE EL CONDICIONAL IF
     {
       cout<<"El numero a: "<<a<<" es menor que el numero b: "<<b<<endl; //FUNCION COUT DE IMPRIMIR EN PANTALLA
     }
