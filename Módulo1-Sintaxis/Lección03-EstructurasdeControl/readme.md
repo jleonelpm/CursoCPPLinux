@@ -97,3 +97,21 @@ Su estructura seria la siguiente:
 
  + Hacer un programa de Bucle while en donde se pida dos números y diga cual de los dos es mayor, el programa debe finalizar únicamente cuando se introduzca un numero negativo.
  + Hacer un programa  en donde se utilice un ciclo while y en este se pueda sumar, restar, multiplicar el programa debe finalizar únicamente cuando se introduzca un numero negativo.
+
+
+[FUNCION DO WHILE]()
+
+Se ejecuta la instrucción o bloque de instrucciones y a continuación se evalúa la condición. Si la condición es cierta, se vuelve a ejecutar la instrucción o bloque de instrucciones, y si es falsa, pasa a ejecutarse la siguiente instrucción después del do-while. 
+Cuando se utiliza una instrucción do-while el bloque de instrucciones se ejecuta al menos una vez, ya que la condición se evalúa al final. En cambio, con una instrucción while, puede suceder que el bloque de instrucciones no llegue a ejecutarse nunca si la condición inicialmente es falsa.
+
+Su estructura seria la siguiente 
+
+    # do
+    # {
+    #   Instrucción 1;
+    #	-------------
+    #	UltimaInstrucción;
+    # }
+    # while (Condición);
+
+ 
