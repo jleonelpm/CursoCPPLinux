@@ -114,7 +114,7 @@ Su estructura seria la siguiente
     # }
     # while (Condición);
 
-####### TAREA
+###### TAREA
 
  + Haga un programa que utilizando las instrucciones do y while el cual pida el nomre de personas y su edad, el programa debe finalizar cuando la edad sea negativa.
  + Utilizando todo lo aprendido hasta el momento haga un programa el cual cree una lista de Nombres Apellidos Ciudades y las organice del 1 al 40; tambien debe poder hacer que al introducir la ciudad se enumere los numeros del 1 al 1000;
