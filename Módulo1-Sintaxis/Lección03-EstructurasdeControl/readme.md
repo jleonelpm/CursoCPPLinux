@@ -93,3 +93,7 @@ Su estructura seria la siguiente:
     #	Instrucción 2;
     # }
 
+###### TAREA
+
+ + Hacer un programa de Bucle while en donde se pida dos números y diga cual de los dos es mayor, el programa debe finalizar únicamente cuando se introduzca un numero negativo.
+ + Hacer un programa que en donde se utilice un ciclo while y en este se pueda sumar, restar, multiplicar el programa debe finalizar únicamente cuando se introduzca un numero negativo.
