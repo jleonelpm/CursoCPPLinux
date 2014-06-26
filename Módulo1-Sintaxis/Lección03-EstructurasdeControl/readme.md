@@ -83,7 +83,7 @@ C++ cuenta con tres estructuras repetitivas las cuales son:
 
 [INSTRUCCION WHILE ]()
 
-La instrucción while como su traducción lo indica significa mientras, en c++ se traduce como mientras este pasando esto haga esto, es muy utilizada para hacer ciclos infinitos.
+La instrucción while como su traducción lo indica significa mientras, en c++ se traduce como mientras este pasando esto haga esto, es muy utilizada para hacer ciclos infinitos. Ver ejemplowhile.cpp
 
 Su estructura seria la siguiente:
 
