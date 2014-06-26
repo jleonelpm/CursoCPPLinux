@@ -40,6 +40,7 @@ Cuando hablamos de la palabra anidada nos referimos a que podemos utilizar un if
 
  * Hacer un programa utilizando solo la sentencia if en donde se pida tres numeros y compare cual de los números es mayor.
  * Hacer un programa en donde se utilice  la sentencia if y else, el cual pida tres números y compare cual de los números es mayor.
+ * TODOS LOS PROGRAMAS DEBEN SER ENVIADOS PARA REVISIÓN.
 
 
 [INSTRUCCION SWITCH]()
@@ -59,3 +60,9 @@ La forma general de esa expresión seria la siguiente.
     # default:
     #		Instrucciones;
     # }
+
+
+#####TAREA
+ + Hacer un programa el cual nos pida que igresemos una letra y este nos diga sie es una vocal o no lo es.
+ + Hacer un programa en el que se ingrese dos nombres y estos se comparen y diaga si son los dos nombres son iguales o no.
+ + TODOS LOS PROGRAMAS DEBEN SER ENVIADOS PARA REVISIÓN.
