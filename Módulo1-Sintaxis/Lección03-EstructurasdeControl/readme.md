@@ -44,7 +44,9 @@ Cuando hablamos de la palabra anidada nos referimos a que podemos utilizar un if
 
  - INSTRUCCION SWITCH 
 
- cuando utilizamos la sentencia switch tenemos la posibilidad de escoger una opcion de muchas alternativas posibles como se muestra en el ejemploswitch.cpp. La forma general de esa expresión seria la siguiente.
+ cuando utilizamos la sentencia switch tenemos la posibilidad de escoger una opcion de muchas alternativas posibles como se muestra en el ejemploswitch.cpp.
+
+La forma general de esa expresión seria la siguiente.
 
     # switch (expresión)
     # {
