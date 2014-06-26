@@ -40,3 +40,20 @@ Cuando hablamos de la palabra anidada nos referimos a que podemos utilizar un if
 
  * Hacer un programa utilizando solo la sentencia if en donde se pida tres numeros y compare cual de los números es mayor.
  * Hacer un programa en donde se utilice  la sentencia if y else, el cual pida tres números y compare cual de los números es mayor.
+
+
+ - INSTRUCCION SWITCH 
+
+ cuando utilizamos la sentencia switch tenemos la posibilidad de escoger una opcion de muchas alternativas posibles como se muestra en el ejemploswitch.cpp. La forma general de esa expresión seria la siguiente.
+
+     # switch (expresión)
+     # {
+     #   case constante1:
+     #	          Instrucciones;
+     #		  break;
+     #   case constante2:
+     #		  Instrucciones;
+     #		  break;
+     # default:
+     #		Instrucciones;
+     # }
