@@ -32,7 +32,11 @@ Un ejemplo seria el siguiente:
  
  Esta instrucción permite que se ejecute un bloque de instrucciones si cumple alguna condición que se le de al programa. Ver el programa ejemploif.cpp. En este ejemplo vemos el bucle if cumpliendo una unica función la cual es comparar dos números y decir si uno es mayor que el otro. Note que el programa puede comparar los dos números dentro del if. El ejemplo se hace utilizando dos condiciones if; esto para que el lector o el estudiante comprenda el uso de esta instrucción if; por lo general cuando no son muchas condiciones se suele trabajar con las funciones if y else; el if es la condición si tal cosa pasa entonces haga tal cosa; la función else se utiliza siempre después de un if y nos dice que si nuestra condición no cae dentro del if entonces haga tal cosa, o lo podemos ver  por el significado de la palabra else significa de lo contrario y en c++ el programa lo entenderá como de lo contrario haga tal cosa como se ve en el programa ejemploifelse.cpp.
 
-### TAREA
+- INSTRUCCION IF ANIDADA
+
+Cuando hablamos de la palabra anidada nos referimos a que podemos utilizar un if dentro de otro if, y dentro de ese if otro if y así sucesivamente las veces que sea necesario, de ahora en adelante veremos que muchas condiciones o ciclos los podremos anidar dentro de otro. Ver ejemploanidado.cpp.
+
+#### TAREA
 
  * Hacer un programa utilizando solo la sentencia if en donde se pida tres numeros y compare cual de los números es mayor.
  * Hacer un programa en donde se utilice  la sentencia if y else, el cual pida tres números y compare cual de los números es mayor.
