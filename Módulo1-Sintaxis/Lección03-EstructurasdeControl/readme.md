@@ -9,7 +9,7 @@ Las estructuras de control se dividen en tres categorías en función del flujo 
 
 ## ESTRUCTURAS DE CONTROL
 
- # [ESTRUCTURA SECUENCIAL]()
+   * [ESTRUCTURA SECUENCIAL]()
 
  La estructura secuencial está formada por una secuencia de instrucciones que se ejecutan en orden una a continuación de la otra. Cada una de las instrucciones están separadas por el carácter punto y coma (;)En algunos casos estaremos interesados en agrupar varias de estas instrucciones en un solo bloque pero esto se vera más adelante.
 
