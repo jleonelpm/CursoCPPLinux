@@ -63,6 +63,27 @@ La forma general de esa expresión seria la siguiente.
 
 
 #####TAREA
- + Hacer un programa el cual nos pida que igresemos una letra y este nos diga sie es una vocal o no lo es.
- + Hacer un programa en el que se ingrese dos nombres y estos se comparen y diaga si son los dos nombres son iguales o no.
+ + Hacer un programa el cual nos pida que igresemos una letra y este nos diga si es una vocal o no lo es.
+ + Hacer un programa en el que se ingrese dos nombres y estos se comparen y diaga si los dos nombres son iguales o no.
  + TODOS LOS PROGRAMAS DEBEN SER ENVIADOS PARA REVISIÓN.
+
+######ESTRUCTURAS REPETITIVAS O ITERATIVAS 
+
+C++ cuenta con tres estructuras repetitivas las cuales son:
+
+ + while.
+ + do-while
+ + for
+
+[INSTRUCCION WHILE ]()
+
+La instrucción while como su traducción lo indica significa mientras, en c++ se traduce como mientras este pasando esto haga esto, es muy utilizada para hacer ciclos infinitos.
+
+Su estructura seria la siguiente:
+
+    # while (Condición)
+    # {
+    #   Instrucción 1;
+    #	Instrucción 2;
+    # }
+
