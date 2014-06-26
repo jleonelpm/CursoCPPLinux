@@ -102,7 +102,7 @@ Su estructura seria la siguiente:
 [FUNCION DO WHILE]()
 
 Se ejecuta la instrucción o bloque de instrucciones y a continuación se evalúa la condición. Si la condición es cierta, se vuelve a ejecutar la instrucción o bloque de instrucciones, y si es falsa, pasa a ejecutarse la siguiente instrucción después del do-while. 
-Cuando se utiliza una instrucción do-while el bloque de instrucciones se ejecuta al menos una vez, ya que la condición se evalúa al final. En cambio, con una instrucción while, puede suceder que el bloque de instrucciones no llegue a ejecutarse nunca si la condición inicialmente es falsa.
+Cuando se utiliza una instrucción do-while el bloque de instrucciones se ejecuta al menos una vez, ya que la condición se evalúa al final. En cambio, con una instrucción while, puede suceder que el bloque de instrucciones no llegue a ejecutarse nunca si la condición inicialmente es falsa.  Ver ejemplodo.cpp
 
 Su estructura seria la siguiente 
 
