@@ -67,7 +67,7 @@ La forma general de esa expresión seria la siguiente.
  + Hacer un programa en el que se ingrese dos nombres y estos se comparen y diaga si los dos nombres son iguales o no.
  + TODOS LOS PROGRAMAS DEBEN SER ENVIADOS PARA REVISIÓN.
 
-######ESTRUCTURAS REPETITIVAS O ITERATIVAS 
+###### ESTRUCTURAS REPETITIVAS O ITERATIVAS 
 
 C++ cuenta con tres estructuras repetitivas las cuales son:
 
