@@ -12,7 +12,7 @@ Las estructuras de control se dividen en tres categorías en función del flujo 
  
 
 
-# [ESTRUCTURA SECUENCIAL]()
+# [1 ESTRUCTURA SECUENCIAL]()
 
  La estructura secuencial está formada por una secuencia de instrucciones que se ejecutan en orden una a continuación de la otra. Cada una de las instrucciones están separadas por el carácter punto y coma (;)En algunos casos estaremos interesados en agrupar varias de estas instrucciones en un solo bloque pero esto se vera más adelante.
 
@@ -25,7 +25,7 @@ Un ejemplo seria el siguiente:
     # cout<<"Hola Linuxeros y Linuxeras"<<endl; 	//Función 4;
     # ....... así hasta la ultima función 		//Función N;
 
-## [ESTRUCTURA ALTERNATIVA O CONDICIONAL]()
+## [2 ESTRUCTURA ALTERNATIVA O CONDICIONAL]()
  
  Las estructuras condicionales controlan si una sentencia o bloque de sentencias se ejecutan, en función del cumplimiento o no de una condición o expresión lógica.
 
@@ -73,7 +73,7 @@ La forma general de esa expresión seria la siguiente.
 
 
 
- # [ESTRUCTURAS REPETITIVAS O ITERATIVAS]()
+ # [3 ESTRUCTURAS REPETITIVAS O ITERATIVAS]()
 
 C++ cuenta con tres estructuras repetitivas las cuales son:
 
