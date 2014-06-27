@@ -152,3 +152,5 @@ Su estructura es la siguiente
  + Utilizando todo lo aprendido hasta el momento haga un programa el cual cree una lista de Nombres Apellidos Ciudades y las organice del 1 al 40; también debe poder hacer que al introducir la ciudad se enumere los números del 1 al 1000;
  + Mirar las referencias bibliográficas y hacer 3 ejercicios de cada una de ellas donde involucren todo lo aprendido.
  + TODOS LOS PROGRAMAS DEBEN SER ENVIADOS PARA REVISIÓN.
+
+[Siguiente lección](../Lección03-EstructurasdeControl)
