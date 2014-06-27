@@ -153,4 +153,4 @@ Su estructura es la siguiente
  + Mirar las referencias bibliográficas y hacer 3 ejercicios de cada una de ellas donde involucren todo lo aprendido.
  + TODOS LOS PROGRAMAS DEBEN SER ENVIADOS PARA REVISIÓN.
 
-[Siguiente lección](../Lección03-EstructurasdeControl)
+[Siguiente lección](../Lección04-Métodos)
