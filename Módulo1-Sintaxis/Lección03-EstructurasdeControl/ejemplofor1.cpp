@@ -1,4 +1,4 @@
-//PROGRAMNDO EN C++ CON LINUX ESPAÑOL
+//PROGRAMANDO EN C++ CON LINUX ESPAÑOL
 #include <iostream> //LIBRERIA
 using namespace std;  //NUEVO ESPACIO DE TRABAJO
 main() //FUNCION MAIN
