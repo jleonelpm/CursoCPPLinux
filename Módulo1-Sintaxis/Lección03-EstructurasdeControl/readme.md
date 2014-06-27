@@ -133,7 +133,7 @@ Su estructura es la siguiente:
 
 [INSTRUCCION FOR ANIDADA]()
 
-Dejamos para lo ultimo esta instrucción pues habrán casos en los que necesites hacer un ciclo dentro de otro ciclo, esto se consigue anidando un for dentro de otro for, caso parecido al if. Lo que hará esa anidación es que por cada vez que se ejecuta el for de afuera, se debe hacer primero todo el ciclo  for anidado o que esta dentro del otro for; esto es algo genial cuando estas programando y quieres que  hacer una secuencia de instrucciones que dependan de otra secuencia de instrucciones. ver ejemploforanidado.cpp
+Dejamos para lo ultimo esta instrucción pues habrán casos en los que necesites hacer un ciclo dentro de otro ciclo, esto se consigue anidando un for dentro de otro for, caso parecido al if. Lo que hará esa anidación es que por cada vez que se ejecuta el for de afuera, se debe hacer primero todo el ciclo  for de adentro del otro for; esto es algo genial cuando estas programando y quieres hacer una secuencia de instrucciones que dependan de otra secuencia de instrucciones. ver ejemploforanidado.cpp
 
 Su estructura es la siguiente 
 
