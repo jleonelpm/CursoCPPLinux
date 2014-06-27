@@ -117,5 +117,10 @@ Su estructura seria la siguiente
 ###### TAREA
  
  + Haga un programa utilizando las instrucciones do y while el cual pida el nombre de personas y su edad, el programa debe finalizar cuando la edad sea negativa.
+
+[INSTRUCCION FOR]()
+
+
+
  + Utilizando todo lo aprendido hasta el momento haga un programa el cual cree una lista de Nombres Apellidos Ciudades y las organice del 1 al 40; también debe poder hacer que al introducir la ciudad se enumere los números del 1 al 1000;
  + TODOS LOS PROGRAMAS DEBEN SER ENVIADOS PARA REVISIÓN.
