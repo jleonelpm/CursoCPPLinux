@@ -130,6 +130,23 @@ Su estructura es la siguiente:
     # 	Instrucción 2;
     # }
 
+
+[INSTRUCCION FOR ANIDADA]()
+
+Dejamos para lo ultimo esta instrucción pues habrán casos en los que necesites hacer un ciclo dentro de otro ciclo, esto se consigue anidando un for dentro de otro for, caso parecido al if. Lo que hará esa anidación es que por cada vez que se ejecuta el for de afuera, se debe hacer primero todo el ciclo  for anidado o que esta dentro del otro for; esto es algo genial cuando estas programando y quieres que  hacer una secuencia de instrucciones que dependan de otra secuencia de instrucciones. ver ejemploforanidado.cpp
+
+Su estructura es la siguiente 
+
+    # for(condicion1)
+    # {
+    #  Instrucciones;
+    #      for(condicion2)
+    #	   {
+    #	     Instrucciones;
+    #	   }
+    #  Instrucciones;
+    # }
+
 ###### TAREA
 
  + Utilizando todo lo aprendido hasta el momento haga un programa el cual cree una lista de Nombres Apellidos Ciudades y las organice del 1 al 40; también debe poder hacer que al introducir la ciudad se enumere los números del 1 al 1000;
