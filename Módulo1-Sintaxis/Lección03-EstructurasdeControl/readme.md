@@ -120,7 +120,17 @@ Su estructura seria la siguiente
 
 [INSTRUCCION FOR]()
 
+Un bucle for hace que una instrucción o bloque de instrucciones se repitan un número determinado de veces mientras se cumpla la condición. ver ejemplofor1.cpp y ejemplofor2.cpp.
 
+Su estructura es la siguiente:
+    
+    # for (Inicialización; Condición1; Incremento o Decremento)
+    # {
+    #   Instrucción 1;
+    # 	Instrucción 2;
+    # }
+
+###### TAREA
 
  + Utilizando todo lo aprendido hasta el momento haga un programa el cual cree una lista de Nombres Apellidos Ciudades y las organice del 1 al 40; también debe poder hacer que al introducir la ciudad se enumere los números del 1 al 1000;
  + TODOS LOS PROGRAMAS DEBEN SER ENVIADOS PARA REVISIÓN.
