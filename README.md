@@ -1,5 +1,5 @@
-CursoCPPLinux
-=============
+Curso CPP Linux
+===============
 
 Bienvendio al Curso C++ en Linux
 
